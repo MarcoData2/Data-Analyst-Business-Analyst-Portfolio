@@ -30,14 +30,14 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 
 ### Repository Contents
 - `Portfolio.pdf` → Full 5-page dashboard export (static view)
-- `E-commerce_Sales_Dashboard.pbix` → Interactive Power BI file (to be uploaded soon)
-- `/screenshots` → High-resolution images of the dashboard
+- `DASHBOARD.pbix` → Interactive Power BI file
+- `synthetic_ecommerce_data.csv` → Synthetic e-commerce data
 
 ### Tools & Skills Demonstrated
 - Power BI Desktop (Data Modeling
 - Power Query (ETL & data cleaning)
-- DAX measures (AOV, YoY growth, rankings, % share, etc.)
-- Interactive filters, drill-throughs, bookmarks
+- DAX measures 
+- Interactive filters, drill-throughs, bookmarks, etc
 - Professional report design & storytelling
 
 ### Contact
@@ -45,8 +45,8 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 **Phone**: (+52) 55 6400-3686  
 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/marcodata19)
 
-Feel free to reach out if you'd like to see the live .pbix file or discuss other projects (SQL, Python, SQL, Tableau, Looker Studio, etc.).
+Feel free to reach out if you'd like to see the live .pbix file or discuss other projects (SQL, Python, SQL, Report Builder, AWS, GCP etc.).
 
 ---
-Built with passion and lots of DAX by **Marco Antonio Díaz Escamilla** — 2025
+Built with passion and lots of DAX by **Marco Data** — 2025
 
