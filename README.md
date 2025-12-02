@@ -43,7 +43,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ### Contact
 **Email**: marcoad160@gmail.com  
 **Phone**: (+52) 55 6400-3686  
-**LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/marcodata19)
+**LinkedIn**: (https://www.linkedin.com/in/marcodata19)
 
 Feel free to reach out if you'd like to see the live .pbix file or discuss other projects (SQL, Python, SQL, Report Builder, AWS, GCP etc.).
 
