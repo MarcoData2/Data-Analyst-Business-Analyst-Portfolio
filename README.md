@@ -35,7 +35,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Power BI Desktop (Data Modeling)
 - Power Query (ETL & Data Cleaning)
 - Advanced DAX Measures
-- Interactive filters, drill-through, bookmarks
+- Interactive filters, drill-through, bookmarks and more
 - Professional design & data storytelling
 
 <br>
