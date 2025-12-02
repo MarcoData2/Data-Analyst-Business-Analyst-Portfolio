@@ -34,7 +34,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - `synthetic_ecommerce_data.csv` → Synthetic e-commerce data
 
 ### Tools & Skills Demonstrated
-- Power BI Desktop (Data Modeling
+- Power BI Desktop (Data Modeling)
 - Power Query (ETL & data cleaning)
 - DAX measures 
 - Interactive filters, drill-throughs, bookmarks, etc
