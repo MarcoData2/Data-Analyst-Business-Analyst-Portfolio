@@ -42,7 +42,8 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 
 ### Full Portfolio Visualization (browse the pages directly here)
 
-<iframe src="https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true" width="100%" height="900px" style="border: none;"></iframe>
+[![Open Portfolio PDF](https://img.shields.io/badge/View-Portfolio%20PDF-lightgrey?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
+
 
 <br>
 
