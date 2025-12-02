@@ -23,7 +23,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 | Executive Summary        | KPI Cards + Monthly Trend           |
 | Sales by Product Category| Horizontal Bar Chart                |
 | Sales by Age Group       | Column Chart                        |
-| Sales by Geography       | Map + Sunburst (Top 50 locations) |
+| Sales by Geography       | Sunburst Chart                      |
 | Top 10 Customers         | Table + Scatter Chart               |
 | Sales by Day of Week     | Line Chart                          |
 | Sales by Payment Method  | Column Chart + Detailed Matrix      |
