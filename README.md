@@ -1,5 +1,5 @@
 # Data Analyst & Business Analyst Portfolio  
-### Marco Antonio Díaz Escamilla
+### Marco Data
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Made with DAX](https://img.shields.io/badge/DAX-Expert-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
@@ -44,7 +44,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ### Contact
 **Email**: marcoad160@gmail.com  
 **Phone**: (+52) 55 6400-3686  
-**LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) *(add your real link)*
+**LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/marcodata19)
 
 Feel free to reach out if you'd like to see the live .pbix file or discuss other projects (SQL, Python, SQL, Tableau, Looker Studio, etc.).
 
