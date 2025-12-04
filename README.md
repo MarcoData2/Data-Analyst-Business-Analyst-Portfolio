@@ -24,7 +24,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
   - **Top 3 Female Categories**: Sports, Home & Garden, Clothing
 - **Best month ever**: March 2023 (~$78K)
 
-### Dashboard Features & Visualizations – Now 7 Pages
+### Dashboard Features & Visualizations – 7 Pages
 | Page | Section                                | Visualization Type                          |
 |------|----------------------------------------|---------------------------------------------|
 | 1    | Executive Summary                      | KPI Cards + Monthly Trend Line              |
