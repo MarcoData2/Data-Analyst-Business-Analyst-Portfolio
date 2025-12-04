@@ -1,5 +1,11 @@
 # Data Analyst & Business Analyst Portfolio
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+<br>
 
 ## E-commerce Sales Dashboard – $1.46M Full Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
@@ -24,7 +30,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - **Best month ever**: March 2023 (~$78K)
 
 ### Dashboard Features & Visualizations – 7 Pages
-| Page | Section                                | Visualization Type                          |
+| Page | Section                              | Visualization Type                          |
 |------|----------------------------------------|---------------------------------------------|
 | 1    | Executive Summary                      | KPI Cards + Monthly Trend Line              |
 | 2    | Sales by Product Category & Geography  | Horizontal Bar + Sunburst Chart             |
@@ -42,7 +48,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Conditional formatting and dynamic titles using advanced DAX
 
 ### Repository Contents
-- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export 
+- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export
 - `DASHBOARD.pbix` → Interactive Power BI file
 - `synthetic_ecommerce_data.csv` → Synthetic dataset used
 
@@ -54,6 +60,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Professional design & data storytelling
 
 ---
+
 ## Portfolio Preview (7 Pages – Updated December 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
@@ -64,21 +71,22 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 ![Page 7](portfolio_page_7.png)
 
 ---
+
 ## Full PDF Version (7 Pages)
 [![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-00d4aa?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
----
+<br>
+
 ### Contact
 **Email**: marcoad160@gmail.com  
 **Phone**: (+52) 55 6400-3686  
 **LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)  
 
-Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL, Python, Report Builder, AWS, GCP, and more!
+Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL Server, Python, Report Builder, AWS, AWS, GCP, and more!
 
----
+<br>
+
 Built with passion and lots of DAX by **Marco Data** — 2025
-
-
 
 
 
