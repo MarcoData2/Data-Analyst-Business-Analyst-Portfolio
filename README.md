@@ -2,56 +2,60 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Made with DAX](https://img.shields.io/badge/DAX-Expert-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
 
-## E-commerce Sales Dashboard – $1.46M Full Analysis  
-**Interactive Power BI dashboard** analyzing **$1.46 million** in sales from **5,654 orders** across a multi-category e-commerce business (2023 – 2025).
+## E-commerce Sales Dashboard – $1.46M Full Analysis
+Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
 ### Key Business Insights
-- **Total Sales**: **$1,456,309** | **5,654 orders**
+- **Total Sales**: **$1,456,309** from **5,654 orders**
 - **Average Order Value**: **$257.56**
+- **Top Category**: **Sports** → **$319K** (21.9%)
 - **Top 3 Categories**:
-  1. **Sports** → **$319K** (21.9%)
-  2. **Electronics** → **$295K** (20.2%)
-  3. **Clothing** → **$289K** (19.8%)
-- **Gender Behavior**:
-  - Women dominate **Sports** ($189K vs $129K men)
-  - Men lead in **Electronics** ($168K vs $126K women)
-- **Top 3 Male Categories**: Electronics, Books, Clothing
-- **Top 3 Female Categories**: Sports, Home & Garden, Clothing
-- **Monthly Trend (2023-2025)**: Strong seasonality with peaks in March and June/July
-- **Best performing month**: **March 2023** (~$78K)
+  1. Sports → $319K
+  2. Electronics → $295K
+  3. Clothing → $289K
+- **Highest-Spending Segment**: Customers **46+ years old**
+- **Top 10 customers** contribute **over $47K** in revenue
+- **Peak sales day**: **Friday**
+- **Preferred payment method**: **Credit Card** → **$398K** (27%)
+- **New Gender Insights**:
+  - Women spend more than men in **Sports** ($189K vs $129K)
+  - Men dominate **Electronics** ($168K vs $126K)
+  - **Top 3 Male Categories**: Electronics, Books, Clothing
+  - **Top 3 Female Categories**: Sports, Home & Garden, Clothing
+- **Best month ever**: March 2023 (~$78K)
 
-### Dashboard Features & Visualizations (7 Pages)
-| Page | Section                          | Visualization Type                  |
-|------|----------------------------------|-------------------------------------|
-| 1    | Executive Summary                | KPI Cards + Monthly Trend Line      |
-| 2    | Sales by Category & Geography    | Horizontal Bar + Sunburst Chart     |
-| 3    | Customer Analysis                | Age Groups, Top 10 Customers Table  |
-| 4    | Sales by Day & Payment Method    | Line + Column + Matrix              |
-| 5    | Top 3 Categories Deep Dive       | Large KPI Cards + Horizontal Bars   |
-| 6    | Sales by Category & Gender       | Stacked Column Chart (100%)         |
-| 7    | Monthly Sales Evolution (2023-2025) | Horizontal Bar Chart (Chronological) |
+### Dashboard Features & Visualizations – Now 7 Pages
+| Page | Section                                | Visualization Type                          |
+|------|----------------------------------------|---------------------------------------------|
+| 1    | Executive Summary                      | KPI Cards + Monthly Trend Line              |
+| 2    | Sales by Product Category & Geography  | Horizontal Bar + Sunburst Chart             |
+| 3    | Customer Analysis                      | Age Groups Column + Top 10 Customers Table  |
+| 4    | Sales by Day & Payment Method          | Line Chart + Column + Detailed Matrix       |
+| 5    | Top 3 Categories Deep Dive             | Large KPI Cards + Horizontal Bar Chart      |
+| 6    | Sales by Category & Gender             | 100% Stacked Column Chart + Custom Banners  |
+| 7    | Monthly Sales Evolution (2023-2025)    | Chronological Horizontal Bar Chart          |
 
-### New Advanced Features Added
-- **100% Stacked Column Chart** for gender comparison per category
-- **Custom Top 3 Male / Female category banners** with conditional formatting
-- **Chronological monthly sales bar chart** (2023 → 2025) with dynamic labels
-- Enhanced color palette (blue for male, purple for female segments)
-- Drill-through ready structure
+### New Features Added (Pages 5-7)
+- Top 3 categories with exact values (319K / 295K / 289K)
+- Gender segmentation across all categories (100% stacked columns)
+- Custom Top 3 Male & Top 3 Female category banners (purple & blue)
+- Full monthly sales history (2023 → 2025) with chronological ordering
+- Conditional formatting and dynamic titles using advanced DAX
 
 ### Repository Contents
-- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export **(7 pages updated)**
-- `DASHBOARD.pbix` → Fully interactive Power BI file
-- `synthetic_ecommerce_data.csv` → Synthetic dataset (2023–2025)
+- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export **(now 7 pages)**
+- `DASHBOARD.pbix` → Interactive Power BI file (updated)
+- `synthetic_ecommerce_data.csv` → Synthetic dataset used
 
 ### Tools & Skills Demonstrated
-- Power BI Desktop (Advanced Data Modeling)
-- Power Query M (ETL, cleaning & appending multiple years)
-- **Advanced DAX** (dynamic titles, ranking, gender segmentation, conditional measures)
-- Interactive drill-throughs, bookmarks, custom tooltips
-- Professional dashboard design & storytelling
+- Power BI Desktop (Data Modeling & Advanced Design)
+- Power Query (ETL & Data Cleaning)
+- Advanced DAX Measures (ranking, segmentation, conditional formatting)
+- Interactive filters, drill-through, bookmarks, custom tooltips
+- Professional design & data storytelling
 
 ---
-## Portfolio Preview (Image Version - 7 Pages)
+## Portfolio Preview (7 Pages – Updated December 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
 ![Page 3](portfolio_page_3.png)
@@ -61,8 +65,8 @@
 ![Page 7](portfolio_page_7.png)
 
 ---
-## Full PDF Version (Updated Dec 2025)
-[![Open Portfolio PDF](https://img.shields.io/badge/View_Full_Portfolio_PDF-7_Pages-important?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
+## Full PDF Version (7 Pages)
+[![Open Portfolio PDF](https://img.shields.io/badge/View_Portfolio_PDF_7_Pages-00d4aa?style=for-the-badge)](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf)
 
 ---
 ### Contact
@@ -70,10 +74,10 @@
 **Phone**: (+52) 55 6400-3686  
 **LinkedIn**: [linkedin.com/in/marcodata19](https://www.linkedin.com/in/marcodata19)  
 
-Feel free to reach out if you want the interactive `.pbix` file or discuss projects in **Power BI, SQL, Python, AWS, GCP, Report Builder**, etc.!
+Feel free to contact me if you want to view the interactive `.pbix` file or discuss projects in SQL, Python, Report Builder, AWS, GCP, and more!
 
 ---
-Built with passion and a ton of DAX by **Marco Data** — 2025
+Built with passion and lots of DAX by **Marco Data** — 2025
 
 
 
