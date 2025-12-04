@@ -17,7 +17,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - **Top 10 customers** contribute **over $47K** in revenue
 - **Peak sales day**: **Friday**
 - **Preferred payment method**: **Credit Card** → **$398K** (27%)
-- **New Gender Insights**:
+- **Gender Insights**:
   - Women spend more than men in **Sports** ($189K vs $129K)
   - Men dominate **Electronics** ($168K vs $126K)
   - **Top 3 Male Categories**: Electronics, Books, Clothing
@@ -35,7 +35,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 | 6    | Sales by Category & Gender             | 100% Stacked Column Chart + Custom Banners  |
 | 7    | Monthly Sales Evolution (2023-2025)    | Chronological Horizontal Bar Chart          |
 
-### New Features Added (Pages 5-7)
+### Features (Pages 5-7)
 - Top 3 categories with exact values (319K / 295K / 289K)
 - Gender segmentation across all categories (100% stacked columns)
 - Custom Top 3 Male & Top 3 Female category banners (purple & blue)
@@ -43,8 +43,8 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Conditional formatting and dynamic titles using advanced DAX
 
 ### Repository Contents
-- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export **(now 7 pages)**
-- `DASHBOARD.pbix` → Interactive Power BI file (updated)
+- [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export 
+- `DASHBOARD.pbix` → Interactive Power BI file
 - `synthetic_ecommerce_data.csv` → Synthetic dataset used
 
 ### Tools & Skills Demonstrated
