@@ -1,10 +1,9 @@
-
 # Data Analyst & Business Analyst Portfolio
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Unix](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linuxmint.com)
+[![Unix](https://img.shields.io/badge/Linux-00A572?style=for-the-badge&logo=linux&logoColor=white)](https://linuxmint.com)
 
 <br>
 
