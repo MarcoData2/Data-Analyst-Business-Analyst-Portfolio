@@ -60,6 +60,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
 - Gender segmentation across all categories (100% stacked columns)
 - Custom Top 3 Male & Top 3 Female category banners (purple & blue)
 - Full monthly sales history (2023 → 2025) with chronological ordering
+- Top 5 Location Total Sales
 - Conditional formatting and dynamic titles using advanced DAX
 
 ### Repository Contents
