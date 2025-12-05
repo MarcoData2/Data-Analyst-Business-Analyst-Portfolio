@@ -41,6 +41,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million** in sales across *
   - **Top 3 Male Categories**: Electronics, Books, Clothing
   - **Top 3 Female Categories**: Sports, Home & Garden, Clothing
 - **Best month ever**: March 2023 (~$78K)
+- **Top 5 Location Total Sales**: West Michael, New Jennifer, North Emily, North James & Port Robert
 
 ### Dashboard Features & Visualizations – 7 Pages
 | Page | Section                              | Visualization Type                          |
