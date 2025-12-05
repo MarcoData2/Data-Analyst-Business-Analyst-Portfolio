@@ -4,7 +4,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Linux/Unix](https://img.shields.io/badge/Linux_Unix-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Unix](https://img.shields.io/badge/Unix-00A572?style=for-the-badge&logo=linux&logoColor=white)](https://www.gnu.org/gnu/linux-and-gnu.en.html)
 <br>
 
 ## E-commerce Sales Dashboard – Full $1.46M Revenue Analysis
@@ -44,21 +44,24 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 | 8    | Top 5 Locations by Revenue          | Clustered Bar Chart                         |
 
 **Advanced Features**  
-- Complex DAX measures (dynamic ranking, conditional segmentation, dynamic titles)  
-- Full ETL with Power Query  
+- Complex DAX measures (dynamic ranking, conditional segmentation, dynamic titles & formatting)  
+- Simulated real-world ETL process extracting data from **SQL Server** and **AWS Redshift**-like structures using Power Query  
 - Interactive filters, drill-through, bookmarks, custom tooltips  
-- Professional design & data storytelling principles
+- Professional design focused on executive-level data storytelling
 
 ### Repository Contents
 - [Portfolio.pdf](https://github.com/MarcoData2/Data-Analyst-Business-Analyst-Portfolio/blob/main/Portfolio.pdf?raw=true) → Full dashboard export (9 pages)  
 - `DASHBOARD.pbix` → Interactive Power BI file  
-- `synthetic_ecommerce_data.csv` → Source dataset
+- `synthetic_ecommerce_data.csv` → Source synthetic dataset
 
 ### Tools & Skills Demonstrated
 - Power BI (Data Modeling, Advanced DAX, Dashboard Design)  
-- Power Query | SQL | Excel Advanced  
-- Python for automation & analytics  
-- Business-focused data storytelling
+- Power Query (simulated enterprise ETL pipelines)  
+- SQL Server & cloud data warehouse concepts (AWS Redshift pattern)  
+- Excel Advanced  
+- **Python** for data processing and automation when required  
+- Unix environment experience  
+- Business-oriented data visualization & storytelling
 
 ---
 ## Full PDF Version (9 pages)
@@ -66,10 +69,10 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 
 <br>
 
-### Looking for a Data Analyst who turns data into business impact?
-I’m actively open to **Data Analyst, Business Intelligence Analyst, or BI & Analytics roles** at forward-thinking companies.
+### Looking for a Data Analyst who delivers actionable business insights?
+I’m actively open to **Data Analyst, Business Intelligence Analyst, or BI & Analytics roles** at data-driven companies.
 
-Let’s talk about how I can help your team make better, faster, data-driven decisions.
+Let’s connect and discuss how I can help your team turn raw data into strategic advantages.
 
 **Contact**  
 📧 **Email**: [marcoad160@gmail.com](mailto:marcoad160@gmail.com)  
@@ -77,4 +80,4 @@ Let’s talk about how I can help your team make better, faster, data-driven dec
 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodata19)  
 🐙 **GitHub**: https://github.com/MarcoData2  
 
-*Available for remote or hybrid roles | Based in Mexico City, open to global opportunities*
+*Based in Mexico City | Available for remote, hybrid or onsite opportunities worldwide*
