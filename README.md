@@ -1,10 +1,10 @@
 # Data Analyst & Business Analyst Portfolio
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2F2F2F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Unix](https://img.shields.io/badge/Unix-00A572?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/)
+[![Unix](https://img.shields.io/badge/Unix-00A572?style=for-the-badge&logo=linux&logoColor=white)](https://linuxmint.com)
 <br>
 
 ## E-commerce Sales Dashboard – Full $1.46M Revenue Analysis
@@ -22,7 +22,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ---
 ### Key Business Insights
 - **Total Revenue**: **$1,456,309** | 5,654 orders
-- **Average Order Value**: **$258**
+- **Average Order Value**: **$1,456**  
 - **Top Category**: Sports → **$319K** (21.9%)
 - **Top 3 Categories**: Sports ($319K) → Electronics ($295K) → Clothing ($289K)
 - **Highest-Spending Segment**: Customers **46+ years old**
@@ -80,4 +80,4 @@ Let’s connect and discuss how I can help your team turn raw data into strategi
 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodata19)  
 🐙 **GitHub**: https://github.com/MarcoData2  
 
-*Based in Mexico City | Available for remote, hybrid or onsite opportunities worldwide*
+*Based in Mexico City | Open to relocation abroad (relocation expenses covered) | Available for remote, hybrid or onsite roles worldwide*
