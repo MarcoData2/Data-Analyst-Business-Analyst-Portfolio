@@ -10,7 +10,7 @@
 ## E-commerce Sales Dashboard – Full $1.46M Revenue Analysis
 Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales across **5,654 orders** from a multi-category e-commerce business (2023 – 2025).
 
-## Portfolio Preview (9 pages – Updated December 2025)
+## Portfolio Preview (9 pages – Updated December 10th 2025)
 ![Page 1](portfolio_page_1.png)
 ![Page 2](portfolio_page_2.png)
 ![Page 3](portfolio_page_3.png)
@@ -66,7 +66,7 @@ Interactive **Power BI** dashboard analyzing **$1.46 million USD** in sales acro
 ### Tools & Skills Demonstrated
 - Power BI (Data Modeling, Advanced DAX, Dashboard Design)  
 - Power Query (simulated enterprise ETL pipelines)  
-- SQL Server & cloud data warehouse concepts (AWS Redshift pattern)  
+- SQL Server & cloud data warehouse concepts (AWS Redshift)  
 - Excel Advanced  
 - **Python** for data processing and automation when required  
 - Unix environment experience  
