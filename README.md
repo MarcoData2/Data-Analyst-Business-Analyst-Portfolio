@@ -88,8 +88,11 @@ Let's connect and discuss how I can help your team turn raw data into strategic 
 
 **Contact**  
 📧 **Email**: [marcoad160@gmail.com](mailto:marcoad160@gmail.com)  
+
 📱 **Phone / WhatsApp**: (+52) 55 6400-3686  
+
 💼 **LinkedIn**: https://www.linkedin.com/in/marcodata19 
+
 🐙 **GitHub**: https://github.com/MarcoData2  
 
 *Based in Mexico City | Open to relocation abroad (relocation expenses covered) | Available for remote, hybrid or onsite roles worldwide*
